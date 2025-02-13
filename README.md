@@ -33,9 +33,3 @@ This project is developed as part of my learning journey in Full Stack Developme
 
 The data is sourced from the IPL Complete Dataset:
 [IPL Dataset on Kaggle](https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020/metadata)
-
-
-
-
-
-# CricketDashboard
